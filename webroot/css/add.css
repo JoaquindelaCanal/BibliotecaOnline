@@ -1,0 +1,79 @@
+
+/* Font ROBOTO */
+.roboto{
+    font-family: 'Roboto', sans-serif !important; 
+}
+
+/* custom background for panel  */
+.container{ 
+    padding-top: 10px !important;
+    background-color: #f5f5f5 !important;  
+}
+
+/* custom background header panel */
+.custom-header-panel{
+    background-color: #004b8e !important;
+    border-color: #004b8e !important;
+    color: white;
+}
+
+.panel {
+ background-color: #e9ecfb;
+ opacity: 0.95;
+}
+
+.panel-title {
+    color: #1da76c;
+}
+
+.no-margin-form-group {
+    margin: 0 !important;
+}
+.requerido {
+    color: red;
+}
+.btn-orange-md {
+    background: #FF791F !important;
+    border-bottom: 3px solid #ae4d13 !important;
+    color: white;
+}
+
+.btn-orange-md:hover {
+    background: #d86016 !important;
+    color: white !important;
+}
+
+.btn-lightblue-md {
+    background: #1EABAB !important;
+    border-bottom: 3px solid #064b4e !important;
+    color: white;
+}
+
+.btn-lightblue-md:hover {
+    background: #13A284 !important;
+    color: white !important;
+}
+
+.form-control {
+    width : 40%;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+    }
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
