@@ -1,5 +1,5 @@
 # Biblioteca Online
-Aplicación web desarrollada para el manejo de una biblioteca online. Esta aplicación permite gestionar los libros y los administradores del sitio. Se obtiene un listado de los libros displonibles y el usuario comun los puede descargar.
+Aplicación web desarrollada para el manejo de una biblioteca online. Esta aplicación permite gestionar los libros y a los administradores del sitio. Se obtiene un listado de los libros displonibles y el usuario comun los puede descargar.
 
 ## Tecnologías utilizadas
 Aplicación desarrollada en PHP con el framework CakePHP v3.4 y Bootstrap 3.
